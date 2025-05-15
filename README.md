@@ -1,7 +1,7 @@
  # Gemini SQL生成微调项目
 
 ## 项目简介
-本项目展示了如何使用Google Cloud的Gemini模型进行微调，以提升SQL查询生成的准确性。项目使用了b-mc2/sql-create-context，通过微调使模型能够更准确地将自然语言问题转换为SQL查询语句。
+本项目展示了如何使用Google Cloud的Gemini模型进行微调，以提升SQL查询生成的准确性。项目使用了来自 Hugging Face 的公共数据集 b-mc2/sql-create-context，通过微调使模型能够更准确地将自然语言问题转换为SQL查询语句。
 
 ## 环境要求
 - Google Cloud账号和项目
